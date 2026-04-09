@@ -28,10 +28,10 @@ const LEVELS = [
       { emojis: "🌴", answer: ["george"], display: "George" },
       { emojis: "🦶👃💨🩴", answer: ["jocy"], display: "Jocy" },
       { emojis: "🧑🦊🧑", answer: ["carlina"], display: "Carlina" },
-      { emojis: "💂🌈", answer: ["armigay", "army gay", "armando"], display: "Armigay / Armando" },
+      { emojis: "🪖🌈", answer: ["armigay", "army gay", "armando"], display: "Armigay / Armando" },
       { emojis: "🗿", answer: ["david cabezas", "david"], display: "David Cabezas" },
       { emojis: "🦊🧙‍♀️", answer: ["huevo"], display: "Huevo" },
-      { emojis: "😎🍑✨", answer: ["sexy guero", "sexy güero"], display: "Sexy Güero" },
+      { emojis: "✨🍑👱🏻‍♂️", answer: ["sexy guero", "sexy güero"], display: "Sexy Güero" },
       { emojis: "🐓", answer: ["gallo"], display: "Gallo" },
       { emojis: "🏔️🕳️", answer: ["cuevas"], display: "Cuevas" },
       { emojis: "🥥", answer: ["coco", "armigay", "army gay", "armando"], display: "Coco / Armigay" },
@@ -54,25 +54,6 @@ const LEVELS = [
       { emojis: "", answer: ["excelente"], display: "Excelente" },
       { emojis: "🛋️📺🍕", answer: ["no pasa nada"], display: "No pasa nada" },
       { emojis: "🐍🎶", answer: ["serpentina"], display: "Serpentina" },
-    ]
-  },
-  {
-    id: "albur",
-    title: "Albur (AI malísimos)",
-    emoji: "🌶️",
-    color: "#993C1D",
-    bg: "#FAECE7",
-    puzzles: [
-      { emojis: "🍆💦😮", answer: ["metele hasta el fondo"], display: "Métele hasta el fondo" },
-      { emojis: "🐓🌮🔄", answer: ["chinga tu madre"], display: "Chinga tu madre" },
-      { emojis: "🍑👋💥", answer: ["que nalgotas"], display: "¡Qué nalgotas!" },
-      { emojis: "🦆🛏️", answer: ["te la pato"], display: "Te la pato" },
-      { emojis: "🐟💨🍑", answer: ["me la pela"], display: "Me la pela" },
-      { emojis: "🌮🍆🏃", answer: ["agarra esa"], display: "Agarra esa" },
-      { emojis: "👅🍆💦", answer: ["mamala"], display: "Mámalon" },
-      { emojis: "🖐️🍑🔁", answer: ["nalgueame"], display: "Nalgüeame" },
-      { emojis: "🍆📏😏", answer: ["que tan grande la quieres"], display: "¿Qué tan grande la quieres?" },
-      { emojis: "🌮🍆🙏", answer: ["ya metelon"], display: "Ya mételo" },
     ]
   }
 ];
